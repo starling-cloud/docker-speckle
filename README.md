@@ -1,2 +1,1 @@
-# docker-speckle
-Docker | Speckle
+# Docker | Speckle
