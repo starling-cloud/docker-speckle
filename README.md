@@ -1,5 +1,5 @@
 # Docker | Speckle
 
-**Starling Suite**
+**Starling Studio Suite**
 
 ---
